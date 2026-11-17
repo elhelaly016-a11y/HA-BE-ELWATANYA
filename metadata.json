@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ha-Be Canteen Payment QR \u0026 Poster Studio",
+  "description": "Professional Canteen Payment QR code generator and printable poster studio for Vodafone Cash and InstaPay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
